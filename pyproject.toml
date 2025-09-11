@@ -1,0 +1,13 @@
+[project]
+name = "pinn-jn"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "markupsafe==2.1.5",
+    "numpy==2.1.2",
+    "torch==2.7.1+cu128",
+    "torchaudio>=2.7.1",
+    "torchvision>=0.22.1",
+]
