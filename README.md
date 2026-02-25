@@ -11,14 +11,14 @@ We propose a simple, hyperparameter-free method to address stiffness in Physics-
 utils.py
 
 ## Jacobian Normalization and Its Effect on PINN Convergence
-Toy1-SimplestODE.ipynb
-Toy2-NonHomogeneous.ipynb
-Toy3-NonLinear.ipynb
+Toy1-SimplestODE.ipynb <br>
+Toy2-NonHomogeneous.ipynb <br>
+Toy3-NonLinear.ipynb <br>
 
 ## A Concrete Application: WIMP Dark Matter in Alternative Cosmologies
-forward-Jacobian.ipynb
-forward-RBA.ipynb
-forward-Soft.ipynb
-inverse-C.ipynb <br>
+forward-Jacobian.ipynb <br>
+forward-RBA.ipynb <br>
+forward-Soft.ipynb <br>
+inverse-C.ipynb <br> <br>
 
 All the aforementioned notebooks generate the necessary files to draw the plots in ResultsSection2.ipynb and ResultsSection3.ipynb.
