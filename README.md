@@ -9,6 +9,7 @@ We propose a simple, hyperparameter-free method to address stiffness in Physics-
 
 # Notebooks
 utils.py
+pinn.py
 
 ## Jacobian Normalization and Its Effect on PINN Convergence
 Toy1-SimplestODE.ipynb <br>
